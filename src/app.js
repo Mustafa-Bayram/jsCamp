@@ -12,7 +12,7 @@ dolarDun = "9.20"
 console.log(dolarDun)
 
 const euroDun = 11.2
-//euroDun = 11
+//euroDun = 11 // bunu yapamıyoruz
 
 console.log(euroDun)
 
@@ -26,6 +26,7 @@ for(let i = 0;i<konutKredileri.length;i++){
     console.log("<li>"+konutKredileri[i]+"</li>")
 }
 console.log("</ul>")
+
 
 {/* <ul>
     <li>Konut kredisi</li>
